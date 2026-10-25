@@ -7,11 +7,11 @@ AgentSec Twin is a security workbench that models AI agents, the MCP servers the
 > [!NOTE]
 > This repository is a project showcase. The source code is private; a walkthrough is available on request.
 
-<div align="center">
-
-  <video src="https://github.com/user-attachments/assets/08e8cc3d-a82a-4de6-9da0-2453bc2e5eb9#t=1" width="100%" controls autoplay loop muted></video>
-
-</div>
+<p align="center">
+  <a href="media/agentsec-twin.mp4"><img src="media/preview.webp" alt="AgentSec Twin demo: type studio, workspace graph, scenario simulation and path diff" width="100%"></a>
+  <br>
+  <sub><a href="media/agentsec-twin.mp4">Watch the full video (0:32)</a></sub>
+</p>
 
 ## Why
 
